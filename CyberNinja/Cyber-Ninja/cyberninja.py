@@ -672,7 +672,7 @@ def main():
 
 
 def lookup_phone(phone):
-    api_key = "9f0f3ea6b9cc39852be8d8473dbac766" 
+    api_key = "yourkeyhere" 
     url = f"http://apilayer.net/api/validate?access_key={api_key}&number={phone}"
     response = requests.get(url).json()
     
