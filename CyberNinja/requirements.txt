@@ -1,0 +1,11 @@
+beautifulsoup4
+bs4
+certifi
+colorama
+lxml
+PySocks
+requests
+requests-futures
+soupsieve
+stem 
+torrequest

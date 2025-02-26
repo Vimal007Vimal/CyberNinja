@@ -1,0 +1,7 @@
+version: '1'
+
+services:
+  Cyber-Ninja:
+        build: .
+        volumes:
+         - "./results:/opt/Cyber-Ninja/results"
