@@ -121,14 +121,6 @@ Example phone number search output:
 ✓ Type: Mobile
 ✓ Time Zone: EST (UTC-5)
 ✓ Format: Valid International
-✓ Risk Level: Low
-✓ Connected Accounts Found: 6
-  - WhatsApp: Active
-  - Telegram: Last seen 2 months ago
-  - Viber: Registered
-  - LinkedIn: Possible match
-  - Facebook: Associated account found
-  - Instagram: Related profile detected
 ```
 
 ## Docker
