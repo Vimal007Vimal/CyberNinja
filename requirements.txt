@@ -9,3 +9,6 @@ requests-futures
 soupsieve
 stem 
 torrequest
+pyfiglet
+term_image
+timg
