@@ -135,10 +135,21 @@ $ docker build -t cyberninja .
 $ docker run -it cyberninja username123
 ```
 
+```Pull the Docker Image
+$ docker pull vimald/cyberninja02:latest
+
+#Run the Container
+$ docker run -it vimald/cyberninja02:latest username123
+
+```
+
 Using Docker Compose:
 ```console
 $ docker-compose run cyberninja username123
 ```
+
+Docker Hub Link
+[**vimald/cyberninja02:latest**](https://hub.docker.com/repository/docker/vimald/cyberninja02/general)
 
 ## Privacy and Security
 
