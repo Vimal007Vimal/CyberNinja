@@ -134,8 +134,8 @@ $ docker build -t cyberninja .
 # Run CyberNinja in a container
 $ docker run -it cyberninja username123
 ```
-
-```Pull the Docker Image
+pull the Docker Image
+```
 $ docker pull vimald/cyberninja02:latest
 
 #Run the Container
