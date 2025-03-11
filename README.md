@@ -137,11 +137,11 @@ $ docker run -it cyberninja username123
 pull the Docker Image
 ```
 $ docker pull vimald/cyberninja02:latest
-
+![Docker Pull Image](https://github.com/Vimal007Vimal/CyberNinja/blob/main/img/pull.jpeg)
 
 #Run the Container
 $ docker run -it vimald/cyberninja02:latest username123
-
+![Docker run Image](https://github.com/Vimal007Vimal/CyberNinja/blob/main/img/dcokerrun.jpeg)
 ```
 
 Using Docker Compose:
