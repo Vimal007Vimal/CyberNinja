@@ -137,9 +137,11 @@ $ docker run -it cyberninja username123
 pull the Docker Image
 ```
 $ docker pull vimald/cyberninja02:latest
+![b77f4059-c2e1-43d6-b196-c9379afa83e0](https://github.com/user-attachments/assets/6ea0adf5-bfba-4df1-a646-e67d148cdc9d)
 
 #Run the Container
 $ docker run -it vimald/cyberninja02:latest username123
+![6ab31e72-0436-4bf5-b82a-1f3a31e8fca1](https://github.com/user-attachments/assets/96b30102-9761-4c23-b34e-1d05370d378c)
 
 ```
 
