@@ -20,8 +20,8 @@
   <a href="#usage">Usage</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#docker">Docker</a>
-  <a href="#PYTHON MOUDLE">Module</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#MOUDLE">Module</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contributing">Contributing</a>
 </p>
@@ -124,7 +124,7 @@ Example phone number search output:
 ✓ Time Zone: EST (UTC-5)
 ✓ Format: Valid International
 ```
-## PYTHON MODULE
+## MODULE
 
 install it 
 ```
