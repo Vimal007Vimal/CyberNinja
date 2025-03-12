@@ -122,6 +122,24 @@ Example phone number search output:
 ✓ Time Zone: EST (UTC-5)
 ✓ Format: Valid International
 ```
+##PYTHON MODULE
+install it 
+```
+#pip install cyberninja 
+```
+
+![image](https://github.com/user-attachments/assets/0ad71c13-8e55-44af-935c-4becca9d702f)
+
+
+use it 
+```
+cyberninja user1 user2
+
+```
+![image](https://github.com/user-attachments/assets/4ad7e864-d0a8-4e97-9fdc-067f46c57199)
+
+![image](https://github.com/user-attachments/assets/d40ce7cd-08cb-4894-aceb-a8c7821757c5)
+
 
 ## Docker
 
