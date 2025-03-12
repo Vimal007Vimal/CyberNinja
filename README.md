@@ -11,18 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="#overview">Overview</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#features">Features</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#installation">Installation</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#usage">Usage</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#docker">Docker</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#MOUDLE">Module</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#overview">Overview</a> | 
+  <a href="#features">Features</a> | 
+  <a href="#installation">Installation</a> | 
+  <a href="#usage">Usage</a> | 
+  <a href="#docker">Docker</a> | 
+  <a href="#module">Module</a> | 
   <a href="#contributing">Contributing</a>
 </p>
 
