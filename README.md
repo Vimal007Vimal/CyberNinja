@@ -122,7 +122,8 @@ Example phone number search output:
 ✓ Time Zone: EST (UTC-5)
 ✓ Format: Valid International
 ```
-##PYTHON MODULE
+## PYTHON MODULE
+
 install it 
 ```
 #pip install cyberninja 
