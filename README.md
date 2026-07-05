@@ -199,4 +199,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors who have helped shape CyberNinja
 - Special thanks to the OSINT community for their valuable feedback
-- Built with by the CyberNinja team
+- Built by the CyberNinja team
+
+
